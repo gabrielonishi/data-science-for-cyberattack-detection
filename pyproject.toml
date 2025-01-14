@@ -11,6 +11,7 @@ pandas = "^2.2.3"
 pathlib = "^1.0.1"
 ruff = "^0.9.1"
 ipykernel = "^6.29.5"
+matplotlib = "^3.10.0"
 
 
 [tool.poetry.group.dev.dependencies]
