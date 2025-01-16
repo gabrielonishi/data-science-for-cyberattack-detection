@@ -13,6 +13,7 @@ ruff = "^0.9.1"
 ipykernel = "^6.29.5"
 matplotlib = "^3.10.0"
 scikit-learn = "^1.6.1"
+seaborn = "^0.13.2"
 
 
 [tool.poetry.group.dev.dependencies]
